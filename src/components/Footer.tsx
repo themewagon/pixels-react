@@ -52,7 +52,7 @@ export default function Footer() {
                         <YoutubeIcon className="size-6 hover:text-pink-500" />
                     </a>
                 </div>
-                <p className="mt-3 text-center">&copy; {new Date().getFullYear()} <a href="https://prebuiltui.com?utm_source=pixels" target="_blank">PrebuiltUI</a>. Distributed by <a href="themewagon.com" target="_blank">ThemeWagon</a></p>
+                <p className="mt-3 text-center">&copy; {new Date().getFullYear()} <a href="https://prebuiltui.com?utm_source=pixels" target="_blank">PrebuiltUI</a> • Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a></p>
             </motion.div>
         </footer>
     );
